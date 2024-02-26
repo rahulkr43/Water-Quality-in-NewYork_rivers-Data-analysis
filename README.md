@@ -1,8 +1,7 @@
-#Multiple linear regression on the Water Pollution in New York Rivers
-#Multiple linear regression on the percentage of people
-#biking to work each day, the percentage of people smoking, 
-#and the percentage of people with heart disease in an imaginary
-#sample of 500 towns.
+## Multiple linear regression on the Water Pollution in New York Rivers
+#project on water pollution of New-york river’s data 
+#1976 study exploring the relationship between water quality and land use, Haith (1976) #obtained the measurements (shown in Table 1.8) on 20 river basins in New York State. A #question of interest here is how the land use around a river basin contributes to the #water pollution as measured by the mean nitrogen concentration (mglliter). The data are #shown in Table 1.9 and can also be found at the book website & also on my github :
+
 
 
 ## Load the data into R by importing the dataset to the text(base)
