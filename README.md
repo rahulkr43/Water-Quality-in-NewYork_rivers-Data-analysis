@@ -35,7 +35,7 @@ x4_outliers <- boxplot(data$x4, main = 'Commercial/Industrial:percentage of land
 ```
 hist(heart.data$heart.disease)
 ```
-![hist](https://github.com/Marx-wrld/Multiple-Linear-Regression-Analysis/assets/105711066/c71a9656-9dff-48ad-bfe5-5635f4e4a5c2)
+![hist](https://github.com/Multiple-Linear-Regression-Analysis/assets/105711066/c71a9656-9dff-48ad-bfe5-5635f4e4a5c2)
 
 
 
